@@ -40,7 +40,7 @@ _*Once the Launch an instance window opens, provide the name of your EC2 Instanc
 _Choose an Instance Type. Here you can select the type of machine, number of vCPUs, and memory that you want to have. Select t2.micro which is free-tier eligible._
 
 ![AWS](https://miro.medium.com/v2/resize:fit:750/format:webp/0*Nj8W-En4DMzUa0TC.png)
-
+      
 _For this demo, we will select an already existing key pair. You can create new key pair if you don’t have:_
 
 ![AWS](https://miro.medium.com/v2/resize:fit:750/format:webp/0*bFgPuri0obCx0luj.png)
